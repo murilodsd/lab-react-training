@@ -1,0 +1,35 @@
+.driver-card {
+    background-color: rgba(29, 29, 173, 0.788);
+    margin: 3rem 6rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    display: flex;
+    justify-content: center;;
+}
+
+.driver-card img {
+    width: 8rem;
+    height: 8rem;
+    clip-path: circle(40px at 50% 50%);
+}
+
+.drivers-info {
+    display: flex;
+    color: white;
+}
+
+.drivers-info .rating {
+    font-size: 2rem;
+    margin:0;
+}
+
+.drivers-info div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin:0 0 0 1.5rem;
+}
+
+.drivers-info h1{
+    font-size: 1.4rem;
+}

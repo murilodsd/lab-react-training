@@ -1,0 +1,11 @@
+.greeting {
+    border: 1px solid black;
+    margin: 3rem 6rem;
+    padding: 1rem;
+
+}
+
+.greeting h1{
+    font-size: 3.2rem;
+    font-weight: bold;
+}
