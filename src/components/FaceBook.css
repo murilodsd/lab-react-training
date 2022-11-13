@@ -1,0 +1,23 @@
+.profile {
+    border: 1px solid black;
+    display: flex;
+    margin: 3rem 6rem;
+    padding: 1rem;
+}
+
+.profile img{
+    margin:0 1rem 0 0;
+    width:10rem;
+
+}
+
+
+.profile p{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.profile span{
+    font-size: 1.4rem;
+    font-weight: 400;
+}

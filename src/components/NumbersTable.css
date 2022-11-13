@@ -1,0 +1,16 @@
+.number-table {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 3rem 6rem;
+
+}
+
+.even , .odd{
+    height:8rem;
+    width:8rem;
+    border: 0.2rem solid black;
+}
+
+.even {
+    background-color: red;
+}
